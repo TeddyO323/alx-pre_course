@@ -84,8 +84,7 @@ To illustrate that, please merge the branch update_script to main: “Cool, all 
 
 <strong>HHHHHHHAAAAAAAA</strong>
 
-<code>CONFLICT (content): Merge conflict in bash/alx</code>
-As you can see, you have conflicts between two branches on the same file.
+<code>CONFLICT (content): Merge conflict in bash/alx</code> <br>As you can see, you have conflicts between two branches on the same file.
 
 Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
 
