@@ -16,10 +16,7 @@ And important part: Make sure your commit and push your code to Github - otherwi
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
 - Create these directories at the root of your project: bash, c, js
-- Create these empty files:
-c/c_is_fun.c
-js/main.js
-js/index.js
+- Create these empty files: <br>c/c_is_fun.c  <br>js/main.js  <br>js/index.js
 - Create a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 - Create a file bash/school with these two lines inside: #!/bin/bash and echo "School"
 - Add all these new files to git
