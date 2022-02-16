@@ -25,7 +25,7 @@ For the moment we have an empty project directory containing only a README.md. I
 ## Repo:
 - GitHub repository: alx-pre_course
 - Directory: 0x01-git
-- File: <span style="color: green;">bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js</span>
+- File: ```diff bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js ```
    
 # 3. Collaboration is the base of a company
 
